@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+        <key>NSPrincipalClass</key>
+        <string>NSApplication</string>
+        <key>CFBundleIconFile</key>
+        <string>B1bl3Coin.icns</string>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleGetInfoString</key>
+        <string>B1bl3Coin [B1BL3] Crypto-Currency 1.0.0</string>
+        <key>CFBundleExecutable</key>
+        <string>B1bl3Coin Qt</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.B1bl3Coin.B1bl3Coin-qt</string>
+        <key>CFBundleShortVersionString</key>
+        <string>1.0.0</string>
+        <key>CFBundleSignature</key>
+        <string>B1bl3Coin</string>
+        <key>CFBundleVersion</key>
+        <string>1.0.0</string>
+</dict>
+</plist>
